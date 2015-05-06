@@ -1,0 +1,36 @@
+{
+	"name": "native-open",
+	"version": "1.0.4",
+	"description": "Open audio, video, images and more with applications installed on the user's device",
+	"cordova": {
+		"id": "com.proofhq.open",
+		"platforms": [
+			"android",
+			"ios"
+		]
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/pkowalewski/native-open.git"
+	},
+	"keywords": [
+		"cordova",
+		"file",
+		"open",
+		"intent",
+		"video",
+		"audio",
+		"image",
+		"photo",
+		"pdf",
+		"ecosystem:cordova",
+		"cordova-android",
+		"cordova-ios"
+	],
+	"author": "Carlos Antonio",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/pkowalewski/native-open/issues"
+	},
+	"homepage": "https://github.com/pkowalewski/native-open"
+}
